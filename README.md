@@ -12,7 +12,7 @@ instructions for my non-tech friends will be put here.
 1. Regular RPS rules
 2. Before playing we both select an image for each other that will be posted onto the loser's social media
 
-#Learning goals
+# Learning goals
 1. Making automated Facebook (or other social media) posts.
 2. Connecting to an online network. Figure out how two remote people can play the game.
 3. A decent looking UI for my friends that are not so tech oriented. Not everyone can use a terminal.
