@@ -16,3 +16,4 @@ instructions for my non-tech friends will be put here.
 1. Making automated Facebook (or other social media) posts.
 2. Connecting to an online network. Figure out how two remote people can play the game.
 3. A decent looking UI for my friends that are not so tech oriented. Not everyone can use a terminal.
+4. Organization. Let's look to create a file to manage the posts, one to manage the gameplay, one to manage the UI, and one to manage the network.
